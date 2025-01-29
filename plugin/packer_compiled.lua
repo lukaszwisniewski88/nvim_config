@@ -149,6 +149,16 @@ _G.packer_plugins = {
     path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
+  neoformat = {
+    loaded = true,
+    path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/neoformat",
+    url = "https://github.com/sbdchd/neoformat"
+  },
+  ["nvim-autopairs"] = {
+    loaded = true,
+    path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/nvim-autopairs",
+    url = "https://github.com/windwp/nvim-autopairs"
+  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/nvim-cmp",
@@ -195,6 +205,11 @@ _G.packer_plugins = {
     path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/rose-pine",
     url = "https://github.com/rose-pine/neovim"
   },
+  ["telescope-tmux.nvim"] = {
+    loaded = true,
+    path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/telescope-tmux.nvim",
+    url = "https://github.com/camgraff/telescope-tmux.nvim"
+  },
   ["telescope.nvim"] = {
     loaded = true,
     path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/telescope.nvim",
@@ -209,6 +224,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-merginal"] = {
+    loaded = true,
+    path = "/home/wisniewski/.local/share/nvim/site/pack/packer/start/vim-merginal",
+    url = "https://github.com/idanarye/vim-merginal"
   },
   ["vim-repeat"] = {
     loaded = true,
